@@ -6,6 +6,7 @@ void setup() {
   Serial.println(F("UPB"));
   Serial.println(ADIOS);
   Serial.println(ADIOS2);
+  Serial.println(F("********"));
 }
 
 void loop() {
