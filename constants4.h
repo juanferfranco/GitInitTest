@@ -1,2 +1,0 @@
-#define ADIOS F("CHAO")
-
