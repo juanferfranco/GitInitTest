@@ -7,6 +7,7 @@ void setup() {
   Serial.println(ADIOS);
   Serial.println(ADIOS2);
   Serial.println(F("********"));
+  Serial.println(F("*--------*"));
 }
 
 void loop() {
